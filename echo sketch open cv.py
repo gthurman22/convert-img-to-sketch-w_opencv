@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import cv2
 import matplotlib.pyplot as plt
 img = cv2.imread("echo.jpg")
@@ -39,10 +33,4 @@ def sketch_image(photo, k_size):
     
 #Function call
 sketch_image(photo='image_1.png', k_size=7)
-
-
-# In[ ]:
-
-
-
 
