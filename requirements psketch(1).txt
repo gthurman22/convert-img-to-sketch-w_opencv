@@ -1,0 +1,3 @@
+pip install opencv (ran as cv2 in code)
+pip install matplotlib
+Should be able to use most jpg, png, and jpeg photos. Make sure they are saved in same directory as your project, or point to path
